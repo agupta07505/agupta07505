@@ -96,13 +96,16 @@ while (problem.exists()) {
 
 <div align="center">
 
-<a href="https://github.com/agupta07505">
-  <img src="https://github-readme-stats.shion.dev/api?username=agupta07505&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a371f7&text_color=e6edf3&icon_color=58a6ff&ring_color=a371f7" height="180" alt="GitHub Stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/agupta07505">
-  <img src="https://streak-stats.demolab.com/?user=agupta07505&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=a371f7&fire=a371f7&currStreakLabel=a371f7&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" height="180" alt="GitHub Streak"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=agupta07505&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a371f7&text_color=e6edf3&icon_color=58a6ff&ring_color=a371f7" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=agupta07505&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=a371f7&fire=a371f7&currStreakLabel=a371f7&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
