@@ -4,23 +4,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Animesh%20Gupta&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%9A%80+Building+software+that+makes+a+difference;%F0%9F%92%A1+Turning+ideas+into+elegant+solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Building+software+that+makes+a+difference;Turning+ideas+into+elegant+solutions" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-## 🧑‍💻 &nbsp;About Me
+## About Me
 
 > *"To me, coding is more than writing programs — it's about turning imagination into reality, embracing challenges, and continuously evolving through the process of building."*
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding gif"/>
 
-- 🔭 &nbsp;Driven by **curiosity** and fueled by the desire to **build**
-- 🌱 &nbsp;I enjoy transforming ideas into software & solving challenging problems
-- 🤝 &nbsp;Contributing to **open source** and always exploring new technologies
-- 🎯 &nbsp;Every project is an opportunity to **learn, improve, and create**
-- ⚡ &nbsp;Fun fact: I debug with `console.log` more than I'd like to admit 😄
+- Driven by **curiosity** and fueled by the desire to **build**
+- I enjoy transforming ideas into software & solving challenging problems
+- Contributing to **open source** and always exploring new technologies
+- Every project is an opportunity to **learn, improve, and create**
+- Fun fact: I debug with `console.log` more than I'd like to admit
 
 <br/>
 
@@ -46,44 +46,44 @@ while (problem.exists()) {
 
 ---
 
-## 🌐 &nbsp;Connect With Me
+## Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/agupta07505" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a371f7" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="https://instagram.com/agupta07505" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=a371f7" alt="Instagram"/>
 </a>&nbsp;
 <a href="mailto:agupta.07505@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=a371f7" alt="Gmail"/>
 </a>
 
 </div>
 
 ---
 
-## 🛠️ &nbsp;Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 👨‍💻 &nbsp;Languages
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,md&theme=dark" alt="Languages"/>
 </p>
 
-### ⚙️ &nbsp;Frameworks & Libraries
+### Frameworks & Libraries
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,threejs&theme=dark" alt="Frameworks"/>
 </p>
 
-### 🗄️ &nbsp;Databases & Cloud
+### Databases & Cloud
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp,vercel&theme=dark" alt="Databases & Cloud"/>
 </p>
 
-### 🧰 &nbsp;Tools & Platforms
+### Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,notion,npm,pnpm,ps,pr&theme=dark" alt="Tools"/>
 </p>
@@ -92,7 +92,7 @@ while (problem.exists()) {
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -111,7 +111,7 @@ while (problem.exists()) {
 
 ---
 
-## 📈 &nbsp;Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -123,9 +123,9 @@ while (problem.exists()) {
 
 <div align="center">
 
-### ✍️ &nbsp;Dev Quote of the Day
+### Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&border_color=30363d" alt="Dev Quote"/>
 
 <br/><br/>
 
