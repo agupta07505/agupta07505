@@ -3,12 +3,9 @@
 <!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f6f8fa,100:8250df&height=220&section=header&text=Animesh%20Gupta&fontSize=52&fontColor=1f2328&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descSize=16&descColor=656d76&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8250DF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Building+software+that+makes+a+difference;Turning+ideas+into+elegant+solutions" alt="Typing SVG" /></a>
-
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:e8d5f5,100:8250df&height=2&section=header" width="100%"/>
 
 ## About Me
 
@@ -50,25 +47,25 @@ while (problem.exists()) {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:e8d5f5,100:8250df&height=2&section=header" width="100%"/>
 
 ## Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/agupta07505" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-f6f8fa?style=for-the-badge&logo=linkedin&logoColor=8250df" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="https://instagram.com/agupta07505" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-f6f8fa?style=for-the-badge&logo=instagram&logoColor=8250df" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>&nbsp;
 <a href="mailto:agupta.07505@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-f6f8fa?style=for-the-badge&logo=gmail&logoColor=8250df" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:e8d5f5,100:8250df&height=2&section=header" width="100%"/>
 
 ## Tech Stack
 
@@ -76,21 +73,21 @@ while (problem.exists()) {
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <b>Languages</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,md&theme=light&perline=5" alt="Languages"/>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <b>Frameworks & Libraries</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,threejs&theme=light&perline=4" alt="Frameworks"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <b>Databases & Cloud</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp,vercel&theme=light&perline=5" alt="Databases & Cloud"/>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <b>Tools & Platforms</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,notion,npm,pnpm,ps,pr&theme=light&perline=5" alt="Tools"/>
     </td>
@@ -99,7 +96,7 @@ while (problem.exists()) {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:e8d5f5,100:8250df&height=2&section=header" width="100%"/>
 
 ## GitHub Analytics
 
@@ -118,7 +115,7 @@ while (problem.exists()) {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:e8d5f5,100:8250df&height=2&section=header" width="100%"/>
 
 ## Contribution Graph
 
@@ -128,12 +125,9 @@ while (problem.exists()) {
 
 </div>
 
----
-
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=agupta07505&style=for-the-badge&color=8250df&label=PROFILE+VIEWS" alt="Profile Views"/>
-
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=agupta07505&style=for-the-badge&color=8250df&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <!-- Footer wave -->
