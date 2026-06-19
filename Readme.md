@@ -34,6 +34,16 @@ while (problem.exists()) {
 
 <br clear="both"/>
 
+<div align="center">
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agupta07505/agupta07505/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/agupta07505/agupta07505/output/github-snake.svg" alt="Snake animation" width="95%"/>
+</picture>
+
+</div>
+
 ---
 
 ## 🌐 &nbsp;Connect With Me
@@ -86,27 +96,13 @@ while (problem.exists()) {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=agupta07505&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a371f7&text_color=e6edf3&icon_color=58a6ff&ring_color=a371f7">
-  <img src="https://github-readme-stats.shion.dev/api?username=agupta07505&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=agupta07505&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=a371f7&fire=a371f7&currStreakLabel=a371f7&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e">
-  <img src="https://streak-stats.demolab.com/?user=agupta07505&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</picture>
-
-</div>
-
----
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=agupta07505&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+<a href="https://github.com/agupta07505">
+  <img src="https://github-readme-stats.shion.dev/api?username=agupta07505&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a371f7&text_color=e6edf3&icon_color=58a6ff&ring_color=a371f7" height="180" alt="GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/agupta07505">
+  <img src="https://streak-stats.demolab.com/?user=agupta07505&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=a371f7&fire=a371f7&currStreakLabel=a371f7&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" height="180" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -122,29 +118,11 @@ while (problem.exists()) {
 
 ---
 
-## 🔝 &nbsp;Top Contributed Repos
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=agupta07505&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=e6edf3" alt="Top Contributed Repos"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### ✍️ &nbsp;Dev Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote"/>
-
-<br/><br/>
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agupta07505/agupta07505/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/agupta07505/agupta07505/output/github-snake.svg" alt="Snake animation" width="95%"/>
-</picture>
 
 <br/><br/>
 
