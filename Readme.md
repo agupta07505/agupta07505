@@ -1,5 +1,20 @@
 # 💫 About Me:
-Hey, I'm Animesh 👋<br><br>Driven by curiosity and fueled by the desire to build.<br><br>I enjoy transforming ideas into software, solving challenging problems, and exploring technologies that push me to grow. Whether it's building applications, contributing to open source, or diving into something completely new, I see every project as an opportunity to learn, improve, and create meaningful solutions.<br><br>To me, coding is more than writing programs—it's about turning imagination into reality, embracing challenges, and continuously evolving through the process of building.<br><br>```java<br>while (problem.exists()) {<br>    code.solve();<br>    world.improve();<br>}<br>```<br><br>🚀 Build • Learn • Improve • Repeat
+Hey, I'm Animesh 👋
+
+Driven by curiosity and fueled by the desire to build.
+
+I enjoy transforming ideas into software, solving challenging problems, and exploring technologies that push me to grow. Whether it's building applications, contributing to open source, or diving into something completely new, I see every project as an opportunity to learn, improve, and create meaningful solutions.
+
+To me, coding is more than writing programs—it's about turning imagination into reality, embracing challenges, and continuously evolving through the process of building.
+
+```java
+while (problem.exists()) {
+    code.solve();
+    world.improve();
+}
+```
+
+🚀 Build • Learn • Improve • Repeat
 
 
 ## 🌐 Socials:
