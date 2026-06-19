@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Animesh%20Gupta&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f6f8fa,100:8250df&height=220&section=header&text=Animesh%20Gupta&fontSize=52&fontColor=1f2328&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descSize=16&descColor=656d76&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Building+software+that+makes+a+difference;Turning+ideas+into+elegant+solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8250DF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Building+software+that+makes+a+difference;Turning+ideas+into+elegant+solutions" alt="Typing SVG" /></a>
 
 </div>
 
@@ -14,15 +14,23 @@
 
 > *"To me, coding is more than writing programs — it's about turning imagination into reality, embracing challenges, and continuously evolving through the process of building."*
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding gif"/>
-
-- Driven by **curiosity** and fueled by the desire to **build**
-- I enjoy transforming ideas into software & solving challenging problems
-- Contributing to **open source** and always exploring new technologies
-- Every project is an opportunity to **learn, improve, and create**
-- Fun fact: I debug with `console.log` more than I'd like to admit
-
-<br/>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <br/>
+      <ul>
+        <li>Driven by <b>curiosity</b> and fueled by the desire to <b>build</b></li>
+        <li>I enjoy transforming ideas into software and solving challenging problems</li>
+        <li>Contributing to <b>open source</b> and always exploring new technologies</li>
+        <li>Every project is an opportunity to <b>learn, improve, and create</b></li>
+        <li>Fun fact: I debug with <code>console.log</code> more than I'd like to admit</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
 ```java
 while (problem.exists()) {
@@ -31,8 +39,6 @@ while (problem.exists()) {
     world.improve();
 }
 ```
-
-<br clear="both"/>
 
 <div align="center">
 
@@ -51,13 +57,13 @@ while (problem.exists()) {
 <div align="center">
 
 <a href="https://linkedin.com/in/agupta07505" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a371f7" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-f6f8fa?style=for-the-badge&logo=linkedin&logoColor=8250df" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="https://instagram.com/agupta07505" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=a371f7" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-f6f8fa?style=for-the-badge&logo=instagram&logoColor=8250df" alt="Instagram"/>
 </a>&nbsp;
 <a href="mailto:agupta.07505@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=a371f7" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-f6f8fa?style=for-the-badge&logo=gmail&logoColor=8250df" alt="Gmail"/>
 </a>
 
 </div>
@@ -68,25 +74,28 @@ while (problem.exists()) {
 
 <div align="center">
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,md&theme=dark" alt="Languages"/>
-</p>
-
-### Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,threejs&theme=dark" alt="Frameworks"/>
-</p>
-
-### Databases & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp,vercel&theme=dark" alt="Databases & Cloud"/>
-</p>
-
-### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,notion,npm,pnpm,ps,pr&theme=dark" alt="Tools"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,md&theme=light&perline=5" alt="Languages"/>
+    </td>
+    <td align="center">
+      <b>Frameworks & Libraries</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,threejs&theme=light&perline=4" alt="Frameworks"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Databases & Cloud</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp,vercel&theme=light&perline=5" alt="Databases & Cloud"/>
+    </td>
+    <td align="center">
+      <b>Tools & Platforms</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,notion,npm,pnpm,ps,pr&theme=light&perline=5" alt="Tools"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -99,10 +108,10 @@ while (problem.exists()) {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=agupta07505&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a371f7&text_color=e6edf3&icon_color=58a6ff&ring_color=a371f7" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=agupta07505&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=8250df&text_color=1f2328&icon_color=0969da&ring_color=8250df" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=agupta07505&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=a371f7&fire=a371f7&currStreakLabel=a371f7&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com/?user=agupta07505&theme=default&hide_border=true&background=ffffff&stroke=d0d7de&ring=8250df&fire=8250df&currStreakLabel=8250df&sideLabels=1f2328&currStreakNum=1f2328&sideNums=1f2328&dates=656d76" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
@@ -115,7 +124,7 @@ while (problem.exists()) {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agupta07505&bg_color=0d1117&color=a371f7&line=a371f7&point=e6edf3&area=true&area_color=a371f7&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=agupta07505&bg_color=ffffff&color=8250df&line=8250df&point=1f2328&area=true&area_color=8250df&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -123,15 +132,9 @@ while (problem.exists()) {
 
 <div align="center">
 
-### Dev Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&border_color=30363d" alt="Dev Quote"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=agupta07505&style=for-the-badge&color=a371f7&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=agupta07505&style=for-the-badge&color=8250df&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 <!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f6f8fa,100:8250df&height=120&section=footer" width="100%"/>
