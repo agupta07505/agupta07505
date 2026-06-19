@@ -32,7 +32,6 @@
 ```java
 while (problem.exists()) {
     code.solve();
-    coffee.drink();
     world.improve();
 }
 ```
