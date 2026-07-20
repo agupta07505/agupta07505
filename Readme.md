@@ -74,13 +74,14 @@ while (problem.exists()) {
   <tr>
     <td align="center" width="50%" style="padding: 20px;">
       <b>Languages</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,md&theme=light&perline=5" alt="Languages"/>
+      <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,c,js,ts,html,css,md&theme=light&perline=5" alt="Languages"/>
     </td>
     <td align="center" width="50%" style="padding: 20px;">
       <b>Frameworks & Libraries</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,threejs&theme=light&perline=4" alt="Frameworks"/>
+      <img src="https://skillicons.dev/icons?i=androidstudio,react,nextjs,nodejs,express,tailwind,bootstrap,threejs&theme=light&perline=4" alt="Frameworks"/>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="50%" style="padding: 20px;">
       <b>Databases & Cloud</b><br/><br/>
@@ -88,15 +89,15 @@ while (problem.exists()) {
     </td>
     <td align="center" width="50%" style="padding: 20px;">
       <b>Tools & Platforms</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,notion,npm,pnpm,ps,pr&theme=light&perline=5" alt="Tools"/>
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea,gradle,postman,figma,notion,npm,linux,kali&theme=light&perline=6" alt="Tools"/>
     </td>
   </tr>
+
 </table>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:e8d5f5,100:8250df&height=2&section=header" width="100%"/>
-
 ## GitHub Analytics
 
 <div align="center">
