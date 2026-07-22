@@ -118,7 +118,7 @@ while (problem.exists()) {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:e8d5f5,100:8250df&height=2&section=header" width="100%"/>
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=agupta07505&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies"/>
